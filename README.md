@@ -18,3 +18,15 @@ Cloud-init configuration that sets up the following software on a cloud server.
     * doctl - Used to manage resources on Digital Ocean.
 
 Details at http://www.opentechshed.com/modern-day-engineers-control-center
+
+## digitalocean-lemp-ubuntu-16.04
+
+Cloud-init configuration that sets up the LEMP stack on DigitalOcean Ubuntu 16.04 Droplet
+
+Details at https://www.opentechshed.com/lemp-stack-using-cloud-init
+
+## aws-lemp-ubuntu-16.04
+
+Cloud-init configuration that sets up the LEMP stack on AWS Ubuntu 16.04 AMI
+
+Details at https://www.opentechshed.com/lemp-stack-using-cloud-init
